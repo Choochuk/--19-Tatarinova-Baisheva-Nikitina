@@ -1,0 +1,72 @@
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\HelioS 300\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Маша\Desktop\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\zadanie\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\piupi\Desktop\клон\--19-Tatarinova-Baisheva-Nikitina\--19-Tatarinova-Baisheva-Nikitina\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
